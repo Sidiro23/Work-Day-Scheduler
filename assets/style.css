@@ -3,7 +3,9 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-
+.display-3{
+  color: #ffffff;
+}
 textarea {
   background: transparent;
   border: none;
@@ -16,7 +18,7 @@ textarea {
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: rgb(226, 216, 216);
+  color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
  background-image: url(https://images.unsplash.com/photo-1585435465945-bef5a93f8849?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
