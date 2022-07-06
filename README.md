@@ -6,6 +6,7 @@
 #### 2.Each hour is updated using moment to display current , past and future time slots.
 #### 3.Included screenshoot of app.
 #### 4. Website deployed URL:
+##### https://sidiro23.github.io/Work-Day-Scheduler/
 #### 5. Used JQuery, Bootstrap, moment ,CSS styling.
 #### 6. Resource websites:
 ##### https://developer.mozilla.org/en-US/
